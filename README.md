@@ -37,8 +37,6 @@ GIF Images
 ## 기술 스택
 
 |   Python   |   Pytorch  |  Pandas  | Matplotlib | Wandb | Transformers |
-| :--------: | :--------: | :------: |   :-----:  | :----:| :-----------:|
-|    ![py]   |   ![pt]    |   ![pd]  |   ![mtpt]  | ![wdb]|    ![trs]    |
 
 <br>
 
