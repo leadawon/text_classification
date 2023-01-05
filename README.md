@@ -93,7 +93,7 @@ text classification 말고도 다른 task가 주어지더라도 잘 해낼 수 �
 <br>
 
 <!-- Stack Icon Refernces -->
-|    ![py]   |   ![pt]    |   ![pd]  |   ![mtpt]  |
+
 [py]: /images/stack/javascript.svg
 [pt]: /images/stack/typescript.svg
 [pd]: /images/stack/react.svg
