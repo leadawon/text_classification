@@ -29,7 +29,7 @@ yelp dataset을 positive, negative으로 분류 합니다.
 </p>
 
 <p align="center">
-GIF Images
+
 </p>
 
 <br>
