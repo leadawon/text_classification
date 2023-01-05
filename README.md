@@ -5,14 +5,21 @@ yelp data semantic classification
   <br>
   <img src="./images/common/logo-sample.jpeg">
   <br>
+  
+  [pdf]([https://www.kaggle.com/competitions/copy-of-6th-goorm-project-1-text-classification](https://github.com/leadawon/text_classification_yelp/blob/main/goorm_nlp_8th_group3/project1/leadawon/final/%5B2%E1%84%8C%E1%85%A9%5Dproj1_%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%E1%84%80%E1%85%B5%E1%84%89%E1%85%A5%E1%86%BC%E1%84%82%E1%85%B3%E1%86%BC%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB.pdf))
+  
 </p>
 
-목차
 
 ## 프로젝트 소개
+yelp dataset을 positive, negative으로 분류 합니다.
+
+[kaggle](https://www.kaggle.com/competitions/copy-of-6th-goorm-project-1-text-classification) 에서 accuracy를 기준으로 competition을 진행합니다.
+
+최종결과는 accuracy 99.0 %로 1등 팀과 0.1% 차이로 2등을 차지했습니다.
 
 <p align="justify">
-프로젝트 개요/동기
+
 </p>
 
 <p align="center">
@@ -23,9 +30,9 @@ GIF Images
 
 ## 기술 스택
 
-|   Python   |   Pytorch  |  Pandas  | Matplotlib |
-| :--------: | :--------: | :------: |   :-----:  |
-|    ![py]   |   ![pt]    |   ![pd]  |   ![mtpt]  |
+|   Python   |   Pytorch  |  Pandas  | Matplotlib | Wandb | Transformers |
+| :--------: | :--------: | :------: |   :-----:  | :----:| :-----------:|
+|    ![py]   |   ![pt]    |   ![pd]  |   ![mtpt]  | ![wdb]|    ![trs]    |
 
 <br>
 
@@ -98,4 +105,5 @@ text classification 말고도 다른 task가 주어지더라도 잘 해낼 수 �
 [pt]: /images/stack/typescript.svg
 [pd]: /images/stack/react.svg
 [mtpt]: /images/stack/node.svg
-
+[wdb]: /images/stack/node.svg
+[trs]: /images/stack/node.svg
