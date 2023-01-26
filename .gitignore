@@ -132,7 +132,3 @@ dmypy.json
 ./goorm_nlp_8th_group3/project1/*.json
 ./goorm_nlp_8th_group3/project1/*.csv
 
-./goorm_nlp_8th_group3/project1/data/*.json
-./goorm_nlp_8th_group3/project1/data/*.csv
-./goorm_nlp_8th_group3/project1/data/*.txt
-./goorm_nlp_8th_group3/project1/data/*.1
