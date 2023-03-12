@@ -36,8 +36,14 @@ yelp dataset을 positive, negative으로 분류 합니다.
 
 ## 기술 스택
 
-|   Python   |   Pytorch  |  Pandas  | Matplotlib | Wandb | Transformers |
-
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Wandb-193440?style=flat&logo=Wandb&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Transformers-333664?style=flat&logo=Transformers&logoColor=white"/></a>&nbsp
+</p>
 <br>
 
 ## 성능을 높이기 위한 방법
